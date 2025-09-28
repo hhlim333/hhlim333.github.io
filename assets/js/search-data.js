@@ -384,14 +384,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-i-worked-as-a-research-assistant-at-city-university-of-hong-kong-under-the-supervision-of-professor-john-sie-yuen-lee",
           title: 'I worked as a Research Assistant at City University of Hong Kong under...',
-          description: "",
-          section: "News",},{id: "news-i-worked-as-an-engineer-at-astri-hong-kong-applied-science-and-technology-research-institute",
-          title: 'I worked as an Engineer at ASTRI (Hong Kong Applied Science and Technology...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
