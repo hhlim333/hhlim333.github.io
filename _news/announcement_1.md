@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I worked as a Research Assistant at City University of Hong Kong under the supervision of Professor John Sie Yuen Lee.
+I worked as a Research Assistant at City University of Hong Kong under the supervision of <a href="https://lt.cityu.edu.hk/people/academic-staff/lee-john-sie-yuen">Prof. John Sie Yuen Lee</a>.
