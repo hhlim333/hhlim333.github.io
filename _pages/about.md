@@ -28,7 +28,7 @@ I’m a senior research assistant at AI Media Centre (AIM) at the School of Comm
 
 I’m particularly interested in understanding and finding new insights from NLP(Natural Language Processing) and LLM (Large Language Model). 
 
-Research Field: Natural Language Processing,Machine Learning,Computational Semantics
+Research Field: Natural Language Processing, Machine Learning, Computational Semantics
 
 My most recent works are focused on readability and nominalization.
 
