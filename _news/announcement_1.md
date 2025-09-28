@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-08-03 12:00:00-0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I worked as a Research Assistant at City University of Hong Kong under the supervision of Professor John Sie Yuen Lee.
