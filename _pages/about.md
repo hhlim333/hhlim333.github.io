@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a senior research assistant at AI Media Centre (AIM) at the School of Communication, Hong Kong Baptist University (HKBU).
+I’m a senior research assistant.
 
 I’m particularly interested in understanding and finding new insights from NLP(Natural Language Processing) and LLM (Large Language Model). 
 
