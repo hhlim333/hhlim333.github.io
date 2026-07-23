@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I worked as a Research Assistant at Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. Yang Yi.
+I worked as a Research Assistant at Hong Kong University of Science and Technology (HKUST) under the supervision of <a href="https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yi-yang-imyiyang">Prof. Yang Yi<a>.
