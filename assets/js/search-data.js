@@ -384,7 +384,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-worked-as-a-research-assistant-in-the-department-of-linguistics-and-translation-at-city-university-of-hong-kong-under-the-supervision-of-prof-john-sie-yuen-lee",
+            },},{id: "news-i-worked-as-a-research-assistant-in-the-department-of-linguistics-and-translation-at-city-university-of-hong-kong-cityu-under-the-supervision-of-prof-john-sie-yuen-lee",
           title: 'I worked as a Research Assistant in the Department of Linguistics and Translation...',
           description: "",
           section: "News",},{id: "news-i-worked-as-an-engineer-at-astri-hong-kong-applied-science-and-technology-research-institute",
