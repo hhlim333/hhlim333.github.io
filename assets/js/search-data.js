@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-worked-as-a-research-assistant-at-city-university-of-hong-kong-under-the-supervision-of-prof-john-sie-yuen-lee",
-          title: 'I worked as a Research Assistant at City University of Hong Kong under...',
+            },},{id: "news-i-worked-as-a-research-assistant-in-the-department-of-linguistics-and-translation-at-city-university-of-hong-kong-under-the-supervision-of-prof-john-sie-yuen-lee",
+          title: 'I worked as a Research Assistant in the Department of Linguistics and Translation...',
           description: "",
           section: "News",},{id: "news-i-worked-as-an-engineer-at-astri-hong-kong-applied-science-and-technology-research-institute",
           title: 'I worked as an Engineer at ASTRI (Hong Kong Applied Science and Technology...',
@@ -393,8 +393,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-work-as-a-senior-research-assistant-at-the-ai-media-centre-aim-of-the-school-of-communication-hong-kong-baptist-university-hkbu",
           title: 'I work as a Senior Research Assistant at the AI Media Centre (AIM)...',
           description: "",
-          section: "News",},{id: "news-i-worked-as-a-research-assistant-at-hong-kong-university-of-science-and-technology-hkust-under-the-supervision-of-prof-yang-yi",
-          title: 'I worked as a Research Assistant at Hong Kong University of Science and...',
+          section: "News",},{id: "news-i-worked-as-a-research-assistant-in-the-department-of-information-systems-business-statistics-and-operations-management-at-the-hong-kong-university-of-science-and-technology-hkust-business-school-under-the-supervision-of-prof-yang-yi",
+          title: 'I worked as a Research Assistant in the Department of Information Systems, Business...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
